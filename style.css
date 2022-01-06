@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.parent{
+    background-color: #23424A;
+    padding: 50px;
+    margin: 0 auto;
+
+    width: 80%;
+    /* min-width: 800px;
+    max-width: 1300px; */
+
+    /* overflow: hidden; */
+}
+
+.child{
+    background-color: #38CFD9;
+    width: 50%;
+    /* margin: 0 auto; */
+    height: 250px;
+}
+
+.container{
+    background: #23424A;
+    color: white;
+    /* font-size: 2em; */
+    width: 80%;
+
+    margin: 0 auto;
+    /* min-height: 700px; */
+    padding: 5em;
+}
