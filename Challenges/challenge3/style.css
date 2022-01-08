@@ -15,7 +15,8 @@
 }
 
 .inner {
-    width: 55%;
+    /* min-width: 50%; */
+    max-width: 900px;
     /* border: 2px solid black; */
     padding: 20px 30px;
 }
